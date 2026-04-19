@@ -1,9 +1,27 @@
-# 19 Mini Projects in JavaScript
+# Quiz Game
 
-A collection of 19 mini projects built while practicing HTML, CSS, and JavaScript.
+A simple quiz game built with HTML, CSS, and JavaScript.
 
-## Projects
-- [01 - Quiz Game](./01-quiz-game)
+## Features
+- Multiple-choice questions
+- Score tracking
+- Progress bar
+- Answer feedback
+- Final results screen
+- Restart quiz option
 
-## Goal
-Build one project at a time and improve web development skills through practice.
+## Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Screenshots
+
+### Start screen
+![Quiz start](./screenshots/quiz-start.png)
+
+### Answer feedback
+![Answer feedback](./screenshots/quiz-answer-feedback.png)
+
+### Final results
+![Quiz results](./screenshots/quiz-results.png)
