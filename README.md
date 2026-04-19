@@ -18,10 +18,10 @@ A simple quiz game built with HTML, CSS, and JavaScript.
 ## Screenshots
 
 ### Start screen
-![Quiz start](./screenshots/quiz-start.png)
+![Quiz start](./quiz-start.png)
 
 ### Answer feedback
-![Answer feedback](./screenshots/quiz-answer-feedback.png)
+![Answer feedback](./quiz-answer-feedback.png)
 
 ### Final results
-![Quiz results](./screenshots/quiz-results.png)
+![Quiz results](./quiz-results.png)
