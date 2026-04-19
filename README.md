@@ -2,6 +2,9 @@
 
 A simple quiz game built with HTML, CSS, and JavaScript.
 
+## Live Demo
+[View project online](https://devcodemate.github.io/19-mini-projects-js/)
+
 ## Features
 - Multiple-choice questions
 - Score tracking
