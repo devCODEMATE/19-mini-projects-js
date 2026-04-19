@@ -28,3 +28,4 @@ A simple quiz game built with HTML, CSS, and JavaScript.
 
 ### Final results
 ![Quiz results](./screenshots/quiz-results.png)
+ 
